@@ -65,7 +65,7 @@ public class ConnectionManager
         //10秒后如果连接还在队列则踢掉这个连接
         _ = Task.Run(async () =>
         {
-            // 在异步方法中延迟30秒
+            // 在异步方法中延迟10秒
             await Task.Delay(10000);
             lock (locker2)
             {

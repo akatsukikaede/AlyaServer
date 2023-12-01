@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dh0kLVwYuZhndq2qWRHHPwMGjQcx54SqcpO/4TrJphhbCuy8GHbtaG4ah/2yvHtgsSVrTzlVoNL3q/baPLzK5g==",
+  "dgSpecHash": "BTJJ7HV4x3Ya+1r67LClqpRcmnppWjhTumGgeO44G7BJblftUkxkTCG4OPgLx2xM4bV41Tii6YGJsQdADzBM9g==",
   "success": true,
-  "projectFilePath": "/Users/hawxwon/Projects/AlyaServer/AlyaServer/AlyaServer.csproj",
+  "projectFilePath": "/Users/hawxwon/Projects/Github/AlyaServer/AlyaServer/AlyaServer.csproj",
   "expectedPackageFiles": [
     "/Users/hawxwon/.nuget/packages/brotlisharplib/0.3.3/brotlisharplib.0.3.3.nupkg.sha512",
     "/Users/hawxwon/.nuget/packages/busterwood.channels/1.3.1/busterwood.channels.1.3.1.nupkg.sha512",

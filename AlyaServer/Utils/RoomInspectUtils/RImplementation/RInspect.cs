@@ -42,7 +42,7 @@ public class RInspect : IRInspect
         //30秒后如果未监听成功则强行关闭连接
         _ = Task.Run(async () =>
         {
-            // 在异步方法中延迟10秒
+            // 在异步方法中延迟30秒
             await Task.Delay(30000);
             if (!inspected)
             {

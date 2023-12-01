@@ -20,13 +20,7 @@
             return;
         }
         //AppID校验，需要重写
-        //if (appId > 65535)
-        //{
-        //    //不合法端口
-        //    byte[] writeBackPack = new byte[] { 0x02};
-        //    conn.SendMsg(0, writeBackPack);
-        //    return;
-        //}
+       
         ConnectionData connData = new ConnectionData() { TcpConn = conn, AppID = appId,RoomID=roomId, LastActiveTime = DateTime.Now };
         //从待连接队列移除
         ConnectionManager.Instance.RemoveConnFromQueue(conn);

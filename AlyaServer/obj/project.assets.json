@@ -620,11 +620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hawxwon/Projects/AlyaServer/AlyaServer/AlyaServer.csproj",
+      "projectUniqueName": "/Users/hawxwon/Projects/Github/AlyaServer/AlyaServer/AlyaServer.csproj",
       "projectName": "AlyaServer",
-      "projectPath": "/Users/hawxwon/Projects/AlyaServer/AlyaServer/AlyaServer.csproj",
+      "projectPath": "/Users/hawxwon/Projects/Github/AlyaServer/AlyaServer/AlyaServer.csproj",
       "packagesPath": "/Users/hawxwon/.nuget/packages/",
-      "outputPath": "/Users/hawxwon/Projects/AlyaServer/AlyaServer/obj/",
+      "outputPath": "/Users/hawxwon/Projects/Github/AlyaServer/AlyaServer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hawxwon/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{268B4D0E-4469-4803-A0DE-94B6A305A4E4}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlyaServer/Utils/ServerUtils/TImplementation/TDataPacker.cs">
+    <Files>
+      <File FileName="AlyaServer/TCPRouters/ClientAuthRouter.cs" Line="23" Column="8" />
+      <File FileName="AlyaServer/TCPRouters/HeartBeatRouter.cs" Line="1" Column="1" />
+      <File FileName="AlyaServer/Management/ConnectionManager.cs" Line="68" Column="25" />
+      <File FileName="AlyaServer/Management/RoomInspectManager.cs" Line="1" Column="1" />
+      <File FileName="AlyaServer/Utils/RoomInspectUtils/RImplementation/RInspect.cs" Line="45" Column="25" />
+      <File FileName="AlyaServer/Utils/RoomInspectUtils/RInterface/IRInspect.cs" Line="8" Column="1" />
+      <File FileName="AlyaServer/Utils/ServerUtils/TImplementation/TConnection.cs" Line="1" Column="1" />
+      <File FileName="AlyaServer/Utils/ServerUtils/TImplementation/TDataPacker.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AlyaServer">
+            <Node name="AlyaServer">
+              <Node name="Utils">
+                <Node name="Common" expanded="True" />
+                <Node name="RoomInspectUtils">
+                  <Node name="RInterface" expanded="True" />
+                </Node>
+                <Node name="ServerUtils" expanded="True">
+                  <Node name="TImplementation" expanded="True">
+                    <Node name="TDataPacker.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AlyaServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
